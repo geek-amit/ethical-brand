@@ -17,6 +17,7 @@
         android:orientation="vertical">
 
         <ImageView
+            android:id="@+id/image1"
             android:layout_width="89dp"
             android:layout_height="63dp"
             android:layout_marginStart="40dp"
@@ -30,6 +31,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/textview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -41,6 +43,7 @@
         android:textStyle="bold" />
 
     <TextView
+        android:id="@+id/textview1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -51,6 +54,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -61,12 +65,14 @@
         android:textColor="@color/light_black" />
 
     <View
+        android:id="@+id/view1"
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_marginTop="95dp"
         android:background="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
@@ -78,6 +84,7 @@
         android:textSize="12sp" />
 
     <TextView
+        android:id="@+id/textview4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
@@ -89,6 +96,7 @@
         android:textColor="@color/black" />
 
     <View
+        android:id="@+id/view2"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="70dp"
@@ -96,6 +104,7 @@
         android:background="@color/teal_200" />
 
     <TextView
+        android:id="@+id/textview5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
@@ -107,6 +116,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
@@ -118,6 +128,7 @@
         android:textColor="@color/black" />
 
     <View
+        android:id="@+id/view3"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="160dp"
@@ -125,6 +136,7 @@
         android:background="@color/teal_200" />
 
         <TextView
+            android:id="@+id/textview7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="170dp"
@@ -136,6 +148,7 @@
             android:textColor="@color/light_black" />
 
         <TextView
+            android:id="@+id/textview8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="170dp"
@@ -147,6 +160,7 @@
             android:textColor="@color/red" />
 
     <View
+        android:id="@+id/view4"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="240dp"
@@ -177,6 +191,7 @@
         android:orientation="vertical">
 
         <ImageView
+            android:id="@+id/image2"
             android:layout_width="89dp"
             android:layout_height="63dp"
             android:layout_marginStart="40dp"
@@ -186,6 +201,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/textview9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -197,6 +213,7 @@
         android:textStyle="bold" />
 
     <TextView
+        android:id="@+id/textview10"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -207,6 +224,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview11"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -216,12 +234,14 @@
         android:textColor="@color/light_black" />
 
     <View
+        android:id="@+id/view5"
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_marginTop="265dp"
         android:background="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview12"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
@@ -233,6 +253,7 @@
         android:textSize="12sp" />
 
     <TextView
+        android:id="@+id/textview13"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
@@ -244,6 +265,7 @@
         android:textSize="12sp" />
 
     <View
+        android:id="@+id/view6"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="70dp"
@@ -251,6 +273,7 @@
         android:background="@color/teal_200" />
 
     <TextView
+        android:id="@+id/textview14"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
@@ -262,6 +285,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview15"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
@@ -273,6 +297,7 @@
         android:textColor="@color/black" />
 
     <View
+        android:id="@+id/view7"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="160dp"
@@ -280,6 +305,7 @@
         android:background="@color/teal_200" />
 
     <TextView
+        android:id="@+id/textview16"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="170dp"
@@ -291,6 +317,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview17"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="170dp"
@@ -302,6 +329,7 @@
         android:textSize="12sp" />
 
     <View
+        android:id="@+id/view8"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="240dp"
@@ -332,6 +360,7 @@
         android:orientation="vertical">
 
         <ImageView
+            android:id="@+id/image"
             android:layout_width="89dp"
             android:layout_height="63dp"
             android:layout_marginStart="40dp"
@@ -341,6 +370,7 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/textview18"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -351,6 +381,7 @@
         android:textStyle="bold" />
 
     <TextView
+        android:id="@+id/textview19"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -361,6 +392,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview20"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="140dp"
@@ -369,15 +401,15 @@
         android:text="@string/quantity2"
         android:textColor="@color/light_black" />
 
-<!--    third-->
-
-        <View
+    <View
+        android:id="@+id/view9"
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_marginTop="465dp"
         android:background="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview21"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
@@ -389,6 +421,7 @@
         android:textSize="12sp" />
 
     <TextView
+        android:id="@+id/textview22"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
@@ -400,6 +433,7 @@
         android:textColor="@color/black" />
 
     <View
+        android:id="@+id/view10"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="70dp"
@@ -407,6 +441,7 @@
         android:background="@color/teal_200" />
 
     <TextView
+        android:id="@+id/textview23"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
@@ -418,6 +453,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview24"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
@@ -429,6 +465,7 @@
         android:textColor="@color/black" />
 
     <View
+        android:id="@+id/view11"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="160dp"
@@ -436,6 +473,7 @@
         android:background="@color/teal_200" />
 
     <TextView
+        android:id="@+id/textview25"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="170dp"
@@ -447,6 +485,7 @@
         android:textColor="@color/light_black" />
 
     <TextView
+        android:id="@+id/textview26"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="170dp"
@@ -458,6 +497,7 @@
         android:textColor="@color/red" />
 
     <View
+        android:id="@+id/view12"
         android:layout_width="1dp"
         android:layout_height="55dp"
         android:layout_marginStart="240dp"
