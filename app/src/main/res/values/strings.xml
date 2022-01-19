@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EthicalBrands</string>
+    <string name="Betadine_ointment">BETADINE OINTMENT 5%</string>
+    <string name="win_medicare">WIN-MEDICARE</string>
+    <string name="quantity">Minimum Order Quantity: 5</string>
+    <string name="image_content_desc">Image</string>
+    <string name="mrp">MRP</string>
+    <string name="mrp_rupee"><strike>\u20B973.50</strike></string>
+    <string name="discounted_price">Discounted Price</string>
+    <string name="discounted_price_rupee">\u20B958.95</string>
+    <string name="discount">Discount</string>
+    <string name="discount_price">20%</string>
+    <string name="button_add_to_cart">ADD TO CART</string>
+
+    <string name="derobin_ointment">DEROBIN OINTMENT</string>
+    <string name="usv">USV PRIVATE LIMITED</string>
+    <string name="quantity1">Minimum Order Quantity: 10</string>
+
+
+    <string name="mrp_rupee1"><strike>\u20B9109.79</strike></string>
+    <string name="discounted_price_rupee1">\u20B982.38</string>
+    <string name="discount_price1">25%</string>
+
+    <string name="thrombophob_ointment">THROMBOPHOB OINTMENT</string>
+    <string name="zydus">ZYDUS HEALTHCARE</string>
+    <string name="quantity2">Minimum Order Quantity: 10</string>
+
+    <string name="mrp_rupee2"><strike>\u20B9120.50</strike></string>
+    <string name="discounted_price_rupee2">\u20B983.14</string>
+    <string name="discount_price2">31%</string>
+
+</resources>
