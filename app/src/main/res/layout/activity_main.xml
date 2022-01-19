@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="170dp"
         android:layout_marginTop="10dp"
-        android:background="@color/white"
+        android:background="@drawable/radius"
         android:orientation="vertical">
 
         <ImageView
@@ -187,7 +187,7 @@
         android:layout_width="match_parent"
         android:layout_height="170dp"
         android:layout_marginTop="190dp"
-        android:background="@color/white"
+        android:background="@drawable/radius"
         android:orientation="vertical">
 
         <ImageView
@@ -356,7 +356,7 @@
         android:layout_width="match_parent"
         android:layout_height="170dp"
         android:layout_marginTop="370dp"
-        android:background="@color/white"
+        android:background="@drawable/radius"
         android:orientation="vertical">
 
         <ImageView
@@ -364,8 +364,8 @@
             android:layout_width="89dp"
             android:layout_height="63dp"
             android:layout_marginStart="40dp"
-            android:contentDescription="@string/discount"
             android:layout_marginTop="10dp"
+            android:contentDescription="@string/discount"
             android:src="@drawable/thrombophob" />
     </LinearLayout>
 
